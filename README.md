@@ -25,7 +25,11 @@ Sample input
 ]
 
 API test on hoppscotch
-![api-test]([/client/api-test.png](https://github.com/trx40/middleware/blob/master/client/api_test.png)https://github.com/trx40/middleware/blob/master/client/api_test.png)
+
+![api_test](https://github.com/trx40/middleware/assets/74058386/c0c42fdc-46e1-4ca7-853c-79ffce236be5)
+
+
 
 Result on the frontend
-![frontend]([/client/frontend.png](https://github.com/trx40/middleware/blob/master/client/frontend.png)https://github.com/trx40/middleware/blob/master/client/frontend.png)
+
+![frontend](https://github.com/trx40/middleware/assets/74058386/5014a672-e202-4f0b-9c78-52ba56f5c604)
